@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwanathan</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F7971E&center=true&vCenter=true&multiline=true&width=435&lines=MERN+Stack+Developer;Web+Developer;Junior+Web+Developer;Frontend+Developer;Software+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&duration=2000&pause=500&color=F7971E&center=true&vCenter=true&width=450&lines=MERN+Stack+Developer;Web+Developer;Junior+Web+Developer;Frontend+Developer;Software+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </h3>
 
 <p>🔭 I craft responsive UIs and build full-stack web apps</p>
@@ -39,24 +39,24 @@
 
 ---
 
-<h2>⚡️ Where to find me</h2>
+<h2>⚡️ Where to Find Me</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/vishwanathan2004" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-profile?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/vj____lover" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-profile?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Profile-F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
   <a href="https://www.behance.net/VishwanathanDesigns" target="_blank">
-    <img src="https://img.shields.io/badge/behance-profile?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" />
+    <img src="https://img.shields.io/badge/Behance-Profile-0057ff?style=for-the-badge&logo=behance&logoColor=white" alt="behance" />
   </a>
 </p>
 
 ---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vishwanathangit&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwanathangit&" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwanathangit" alt="GitHub Streak" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishwanathangit&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishwanathangit" alt="GitHub Trophy" /></a></p>
 
